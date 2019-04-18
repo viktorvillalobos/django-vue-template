@@ -16,19 +16,3 @@ selenium-debug.log
 *.njsproj
 *.sln
 .venv
-
-
-### Django ###
-*.log
-*.pot
-*.pyc
-__pycache__/
-local_settings.py
-
-.venv/
-db.sqlite3
-
-
-webpack-stats.json
-public/
-dist/
